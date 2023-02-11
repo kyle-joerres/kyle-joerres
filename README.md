@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyle-joerres
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Python, C++
+- 👀 I’m interested in Data science/Machine Learning/ AI
+- 🌱 I’m currently honing my Python and Golang skills
 - 📫 Reach me at kyle.joerres@gmail.com
 
 <!---
